@@ -4,13 +4,13 @@
 
 int main()
 {
-    char nome[30][20];
+    char nome[30][30];
     float av1[30];
     int i, j; //"x" eh a variavel auxiliar
     char y[30];// outra variavel auxiliar
     float x;
     
-    printf("Olá, meu nome é Igor de Andrade e este programa pode ser visto no seguinte endereço do github: https://github.com/igorioshi/trabalhoAv2/blob/master/trabalho.c \n");
+    printf("\nOlá, meu nome é Igor de Andrade e este programa pode ser visto no seguinte endereço do github: https://github.com/igorioshi/trabalhoAv2/blob/master/trabalho.c \n");
     
     for(i=0; i<=29; i++)
     {
